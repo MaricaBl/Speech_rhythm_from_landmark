@@ -1,4 +1,4 @@
-The project's aim is to derive speech rhythm metrics directly from speech samples. In doing so a specialized software based on acoustic landmarks was used. 
+The project's aim is deriving speech rhythm metrics directly from speech samples. In doing so a specialized software based on acoustic landmarks was used. 
  The original concept of acoustic landmark was theorised by the Speech and Communication Group at MIT back in th 90's (Stevens 1989, 2002).
  Acoustic landmarks are timestamp boundaries denoting sharp changes in speech articulation. 
  In fact, to the abrupt changes in the articulatory configuration correspond specific transitions between different types of sounds in the signal. 
